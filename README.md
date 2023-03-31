@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhszeto2019
-- 👀 I’m interested in data science and software engineering
-- 🌱I’m looking for an internship opportunity to learn more and develop my technical skills
+- 👀 I’m interested in Software Engineering in Finance related-field
+- 🌱 Experienced with FX back office system and am looking for new opportunities
 - 📫 How to reach me mhszeto.2019@scis.smu.edu.sg / brennanstmh@gmail.com
 
 <!---
